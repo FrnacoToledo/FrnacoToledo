@@ -16,7 +16,7 @@
 ```javascript
 const franco = {
     location: "Santiago, Chile 🇨🇱",
-    education: "Computer Engineering @ Duoc UC San Joaquín",
+    education: "Computer Science Engineering @ Duoc UC San Joaquín",
     currentRole: "Software Developer @ MAIMAG SPA",
     workingSince: "September 2023",
     
